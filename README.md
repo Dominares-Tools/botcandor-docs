@@ -8,7 +8,7 @@ botcandor spots "are you a bot?" questions, replaces a reply that dodges or deni
 
 ## Get it
 
-Buy botcandor at https://dominares.org/tools/botcandor: one payment of $49, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python library and the botcandor command, runnable examples (a chat handler and a sample transcript), and the full test suite.
+Buy botcandor at https://dominares.org/tools/botcandor: one payment of $49, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python library and the botcandor command, runnable examples (a chat handler and a sample transcript), and the test suite.
 
 Requirements: Python 3.10 or newer, standard library only.
 
